@@ -3,4 +3,5 @@
 ##### A website for **github** class
 ![banner](banner.png)
 ![classtables](https://unsplash.com/photos/yf9hEzG8EKI)
-You can just [Googlr](https://www.google.com) it.
+---
+You can just [Google](https://www.google.com) it.
