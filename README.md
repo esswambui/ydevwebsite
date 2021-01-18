@@ -5,8 +5,8 @@
 ![classtables](https://unsplash.com/photos/yf9hEzG8EKI)
 ---
 We discussed:
--One
--Two
--Three
+- One
+- Two
+- Three
 ---
 You can just [Google](https://www.google.com) it.
