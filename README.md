@@ -9,4 +9,7 @@ We discussed:
 - Two
 - Three
 ---
+|Name|Age|Gender|
+|----|-----|----|
+|  1  |  2   | 3   |
 You can just [Google](https://www.google.com) it.
