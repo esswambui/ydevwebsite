@@ -10,6 +10,6 @@ We discussed:
 - Three
 ---
 |Name|Age|Gender|
-|----|-----|----|
-|  1  |  2   | 3   |
+|----|----|----|
+|1|2|2|
 You can just [Google](https://www.google.com) it.
